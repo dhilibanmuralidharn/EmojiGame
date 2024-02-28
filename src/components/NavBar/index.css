@@ -1,0 +1,32 @@
+.nav-bg {
+  background-color: #9796f0;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.logo-container {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 60px;
+}
+.score-container {
+  display: flex;
+  justify-content: space-between;
+  margin-right: 60px;
+}
+.logo{
+  width: 50px;
+  margin-right: 5px;
+}
+.heading {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+  color: white;
+}
+.scores {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+  color: white;
+  margin-right: 40px;
+}

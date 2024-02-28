@@ -1,0 +1,13 @@
+.app-container {
+  background-color: #6a59ff;
+  background-size: cover;
+  height: 100vh;
+}
+.emoji-container-el {
+  margin-top: 50px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
